@@ -1,0 +1,43 @@
+{
+    "posts":[
+        
+            {
+              "id": 1,
+              "title": "Sunset Serenity",
+              "description": "A breathtaking sunset over the mountains, casting warm hues across the sky.",
+              "likesCount": 1200
+            },
+            {
+              "id": 2,
+              "title": "City Lights",
+              "description": "The cityscape illuminated with vibrant lights at night, creating a mesmerizing urban view.",
+              "likesCount": 850
+            },
+            {
+              "id": 3,
+              "title": "Nature's Palette",
+              "description": "Vivid colors of flowers in a botanical garden, showcasing the beauty of nature's diversity.",
+              "likesCount": 620
+            },
+            {
+              "id": 4,
+              "title": "Portraits of the Past",
+              "description": "Black and white portraits capturing the timeless expressions of people from a bygone era.",
+              "likesCount": 980
+            },
+            {
+              "id": 5,
+              "title": "Wildlife Wonder",
+              "description": "A close-up shot of a majestic wild animal in its natural habitat, highlighting the wonders of wildlife.",
+              "likesCount": 1500
+            },
+            {
+              "id": 6,
+              "title": "Architectural Elegance",
+              "description": "Modern architecture at its finest, showcasing the sleek lines and innovative design of a city skyscraper.",
+              "likesCount": 1100
+            }
+          
+          
+    ]
+}
